@@ -32,7 +32,7 @@ jobs:
       - name: Build site
         run: |
           cd client
-          npm ci
+          npm install
           npm run build
         env:
           VITE_BASE_PATH: '/ArnalsteenSolutions/'
