@@ -26,6 +26,7 @@ A visually striking and dynamic business website for Arnalsteen Solutions, featu
 - **In-memory storage** (MemStorage)
 - **Zod** schema validation
 
+
 ### Build Tools
 - **Vite** for frontend bundling
 - **esbuild** for backend bundling
