@@ -58,7 +58,7 @@
 
 @layer base {
   * {
-    @apply border-border;
+    @apply border; /* or border-gray-200, border-neutral-200, etc. */
   }
 
   body {
